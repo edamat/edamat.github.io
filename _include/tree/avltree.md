@@ -1,5 +1,6 @@
 ---
 last_update: 2019-09-11
+permalink: /tree/avltree
 ---
 
 #概要

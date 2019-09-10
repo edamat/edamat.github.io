@@ -6,4 +6,4 @@ last_update : 2019-09-11 0:21:00
 
 ただライブラリを載せておくだけのサイトです。なお，バグのある可能性が非常に高いため，コピペはお勧めしません。
 
-* [AVL木](_include/tree/avltree.md)
+* [AVL木]({{"tree/avltree"|related_url}})
