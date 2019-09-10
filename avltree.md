@@ -4,9 +4,11 @@ last_update: 2019-09-11
 permalink: /tree/avltree
 ---
 
-# 概要
+## 概要
 
-```Python:avltree.py
+AVL木と呼ばれる平衡二分探索木。**Pythonには標準でsetが入っていない**ので作ってみたがクソのような遅さ。
+
+```python
 
 class Avltree:
     """
