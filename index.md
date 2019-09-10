@@ -1,5 +1,4 @@
 ---
-layout: home
 last_update : 2019-09-11 0:21:00
 ---
 
